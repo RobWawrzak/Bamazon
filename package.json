@@ -1,0 +1,27 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A CLI based storefront using MySQL in the backend.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobWawrzak/Bamazon.git"
+  },
+  "keywords": [
+    "Bamazon"
+  ],
+  "author": "Rob Wawrzak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobWawrzak/Bamazon/issues"
+  },
+  "homepage": "https://github.com/RobWawrzak/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {}
+}
